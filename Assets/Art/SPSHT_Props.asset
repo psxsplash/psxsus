@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59d9300751bf4164d845973ba2459642, type: 3}
+  m_Name: SPSHT_Props
+  m_EditorClassIdentifier: net.psxsplash.splashedit.Runtime::SplashEdit.RuntimeCode.PSXSpriteSheet
+  sheetName: props
+  sourceTexture: {fileID: 2800000, guid: 7fae87b23f47f594aa3679b17715a1c3, type: 3}
+  bitDepth: 4
+  cellWidth: 16
+  cellHeight: 16
+  animations:
+  - animationName: task
+    firstFrame: 0
+    frameCount: 1
+    frameDuration: 1
+    loop: 0
+  - animationName: vent
+    firstFrame: 1
+    frameCount: 1
+    frameDuration: 1
+    loop: 0
+  - animationName: fix
+    firstFrame: 2
+    frameCount: 1
+    frameDuration: 1
+    loop: 0
+  - animationName: emergency
+    firstFrame: 3
+    frameCount: 1
+    frameDuration: 1
+    loop: 0
+  - animationName: floor
+    firstFrame: 4
+    frameCount: 1
+    frameDuration: 1
+    loop: 0
+  - animationName: spawn
+    firstFrame: 5
+    frameCount: 1
+    frameDuration: 1
+    loop: 0

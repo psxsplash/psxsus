@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5bc0d8f6252841439e81a8406c37859, type: 3}
+  m_Name: Font
+  m_EditorClassIdentifier: net.psxsplash.splashedit.Runtime::SplashEdit.RuntimeCode.PSXFontAsset
+  sourceFont: {fileID: 12800000, guid: 2c42727f8687b4342b177ba73140e43c, type: 3}
+  fontSize: 13
+  fontTexture: {fileID: 2800000, guid: eb4a61928e1f4304bb00b3217ed9c71d, type: 3}
+  glyphWidth: 32
+  glyphHeight: 19
+  storedAdvanceWidths: 0403060b0b0f0b0406060808030503050c040b0b0c0b0b0b0c0b0303080808080b0d0c0b0c0b0b0c0c040a0b0a100d0d0b0d0c0b0b0d0d110c0c0b0605060808050a0b090b0a060b0b04040a040e0b0b0b0b080a060b0b0f0a0b0a0606060820
